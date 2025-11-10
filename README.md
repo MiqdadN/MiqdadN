@@ -7,7 +7,7 @@
 ---
 
 ### 🧠 About Me
-I build systems where **games meet research** — combining player behavior, AI, and data visualization.  
+I build systems where **games meet research** ; combining player behavior, AI, and data visualization.  
 My work spans **game balance analysis**, **digital twins**, and **cultural environment design**, using Unity, Unreal Engine, and Python for research-driven experimentation.
 
 ---
@@ -51,7 +51,7 @@ Implements frequency analysis and classification (Decision Tree, Logistic Regres
 
 ### 🌐 Connect
 📁 [Portfolio Website](https://miqdad.myportfolio.com)  
-💼 [LinkedIn](https://linkedin.com/in/miqdadnaduthodi)  
+💼 [LinkedIn](https://www.linkedin.com/in/miqdad-naduthodi-220a111a9/)  
 ✉️ miqdadnaduthodi@tamu.edu  
 
 ---
