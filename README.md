@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Miqdad Naduthodi
 
 🎮 **Researcher | Game Developer | Visualization Specialist**  
-📍 M.S. in Visualization — Texas A&M University
-📍 B.Tech in Electrical and Electronics Engineering - National Institute of Technology Puducherry
+📍 M.S. in Visualization — Texas A&M University  
+📍 B.Tech in Electrical and Electronics Engineering - National Institute of Technology Puducherry  
 🔬 Exploring the intersection of **AI, Game Design, Computer Vision, Digital Twins and Interactive Simulations**
 
 ---
