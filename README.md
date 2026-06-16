@@ -1,8 +1,9 @@
 # 👋 Hi, I'm Miqdad Naduthodi
 
 🎮 **Researcher | Game Developer | Visualization Specialist**  
-📍 M.S. in Visualization — Texas A&M University  
-🔬 Exploring the intersection of **AI, Game Design, and Interactive Simulations**
+📍 M.S. in Visualization — Texas A&M University
+📍 B.Tech in Electrical and Electronics Engineering - National Institute of Technology Puducherry
+🔬 Exploring the intersection of **AI, Game Design, Computer Vision, Digital Twins and Interactive Simulations**
 
 ---
 
@@ -13,6 +14,9 @@ My work spans **game balance analysis**, **digital twins**, and **cultural envir
 ---
 
 ### 🚀 Research & Projects
+
+#### 🎮 [A Dataset and Evaluation for Complex 4D Markerless Human Motion Capture](#)
+HUM4D is a multi-view RGB-D dataset and evaluation benchmark developed for human mesh recovery in complex markerless motion-capture scenarios. The project focuses on challenges such as occlusion, identity switching, and close human interactions, providing synchronized data and evaluation resources for advancing 4D human reconstruction research. The paper was accepted to the CVPR 2026 Workshop on 4D World Models.
 
 #### 🎮 [Game Balance Evaluation for Asymmetric Fighter Games](#)
 A hybrid framework for evaluating fairness in asymmetric fighting games through **manual playtesting and AI-driven simulation**.  
