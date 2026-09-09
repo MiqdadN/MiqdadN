@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Miqdad Naduthodi
+# Hi, I'm Miqdad Naduthodi
 
 🎮 **Researcher | Game Developer | Visualization Specialist**  
 📍 M.S. in Visualization — Texas A&M University  
