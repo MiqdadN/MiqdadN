@@ -15,18 +15,18 @@ My work spans **game balance analysis**, **digital twins**, and **cultural envir
 
 ### 🚀 Research & Projects
 
-#### 🎮 [A Dataset and Evaluation for Complex 4D Markerless Human Motion Capture](#)
+#### 🎮 [A Dataset and Evaluation for Complex 4D Markerless Human Motion Capture](https://arxiv.org/pdf/2604.12765)
 HUM4D is a multi-view RGB-D dataset and evaluation benchmark developed for human mesh recovery in complex markerless motion-capture scenarios. The project focuses on challenges such as occlusion, identity switching, and close human interactions, providing synchronized data and evaluation resources for advancing 4D human reconstruction research. The paper was accepted to the CVPR 2026 Workshop on 4D World Models.
 
-#### 🎮 [Game Balance Evaluation for Asymmetric Fighter Games](#)
+#### 🎮 [Game Balance Evaluation for Asymmetric Fighter Games](https://drive.google.com/file/d/1YQ9MBoqjPNidTdonYR5K9snmVRPPd-lM/view?usp=drive_link)
 A hybrid framework for evaluating fairness in asymmetric fighting games through **manual playtesting and AI-driven simulation**.  
 Developed in Unity with data analytics to assess **win-rate balance, matchup dynamics, and performance metrics**.
 
-#### 🏫 [Digital Twin of Langford C’s 4th Floor](#)
+#### 🏫 [Digital Twin of Langford C’s 4th Floor](https://youtu.be/oY_TwAKd8a0?si=80K5z4Nw7R-t6VuX)
 An Unreal Engine-based **real-time simulation** of student movement and space usage at Texas A&M University.  
 Integrates **MQTT data streams**, AI agents, and interactive visualization for **occupancy and behavior analysis**.
 
-#### 🏺 [Ancient South Indian Civilization – Environmental Study](#)
+#### 🏺 [Ancient South Indian Civilization – Environmental Study](https://youtu.be/2XSQ0ti5BPc)
 An Unreal Engine **environmental reconstruction** inspired by the **Sangam Era (~100 AD)**.  
 Combines historical research and artistic design to recreate ancient **architecture, culture, and lifestyle** through 3D assets and world-building.
 
@@ -54,9 +54,9 @@ Implements frequency analysis and classification (Decision Tree, Logistic Regres
 ---
 
 ### 🌐 Connect
-📁 [Portfolio Website](https://miqdad.myportfolio.com)  
+📁 [Portfolio Website](https://miqdadn.github.io/Portfolio/)  
 💼 [LinkedIn](https://www.linkedin.com/in/miqdad-naduthodi-220a111a9/)  
-✉️ miqdadnaduthodi@tamu.edu  
+✉️ miqdadnaduthodi@gmail.com  
 
 ---
 
